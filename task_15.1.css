@@ -1,0 +1,60 @@
+.bg-container {
+    background-color: blueviolet;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+}
+
+.tp{
+    background-color: rgb(49, 49, 49);
+    height: 80px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.bt{
+    background-color: rgb(48, 48, 48);
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+.db {
+    height: 30px;
+    width: 30px;
+    background-color: aliceblue;
+
+}
+
+.db1 {
+    height: 30px;
+    width: 70px;
+    background-color: aliceblue;
+    margin: 5px;
+    margin-bottom: 10px;
+
+}
+
+.bt2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    
+
+}
+
+.bt1{
+    background-color: rgb(48, 48, 48);
+    /* height: 300px;
+    width: 300px; */
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+.wh {
+    background-color: rgb(48, 48, 48);
+}
